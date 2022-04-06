@@ -1,0 +1,23 @@
+{
+  "name": "@guonei001/vue-electronic-signature",
+  "description": "电子手写签名",
+  "version": "1.0.2",
+  "author": "GN",
+  "license": "MIT",
+  "private": false,
+  "main": "/dist/index.js",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot --host 0.0.0.0",
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "keywords": [
+    "electronic",
+    "signature",
+    "vue"
+  ]
+}
