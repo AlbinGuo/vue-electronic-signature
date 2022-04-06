@@ -22,7 +22,7 @@
 </template>
 
 <script>
-  import popup from "ssit-mobile-popup"
+  import popup from "vue-mobile-popup"
   import MobileEsign from "./mobileesign"
   export default {
     name: 'app',
