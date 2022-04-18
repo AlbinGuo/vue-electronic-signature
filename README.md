@@ -1,6 +1,26 @@
-# ssit-mobile-esign
+# vue-electronic-signature
 
-> 移动端电子手签
+Mobile electronic signature.
+
+<h1 align="center">
+Vue-electronic-signature
+</h1>
+<p align="center">
+vue-electronic-signature is a Mobile electronic signature component.
+<p>
+<p align="center">
+  <a href="https://www.npmjs.com/package/@guonei001/vue-electronic-signature"><img src="https://img.shields.io/npm/v/@guonei001/vue-electronic-signature?color=729B1B&label="></a>
+<p>
+
+#### Description
+A Vue.js component for creating polls, 
+voting and showing results. It’s easy to implement and easy to customize.
+It`s based on vue2+
+
+#### Install
+```
+npm i vue-vote
+```
 
 ## Build Setup
 
