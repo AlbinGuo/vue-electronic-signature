@@ -19,7 +19,7 @@ It`s based on vue2+
 
 #### Install
 ```
-npm i vue-vote
+npm i @guonei001/vue-electronic-signature
 ```
 
 ## Build Setup
